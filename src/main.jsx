@@ -7,7 +7,9 @@ import './index.css'
 // import MyPromises from './functions/MyPromises.jsx';
 // import MyPromisesAll from './functions/MyPromisesAll.jsx';
 // import MyPrimesesRace from './functions/MyPrimesesRace.jsx'
-import MyFetchAPIs from './functions/MyFetchAPIs.jsx'
+// import MyFetchAPIs from './functions/MyFetchAPIs.jsx'
+// import MyFetchPost from './functions/MyFetchPost'
+import MyFetchBlob from './functions/MyFetchBlob'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -16,6 +18,8 @@ createRoot(document.getElementById('root')).render(
     {/* <MyPromises /> */}
     {/* <MyPromisesAll /> */}
     {/* <MyPrimesesRace /> */}
-    <MyFetchAPIs />
+    {/* <MyFetchAPIs /> */}
+    {/* <MyFetchPost /> */}
+    <MyFetchBlob />
   </StrictMode>
 )
