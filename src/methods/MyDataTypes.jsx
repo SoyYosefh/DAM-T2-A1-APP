@@ -15,7 +15,7 @@ function MyDataTypes() {
     let Activo = true;
 
     return (
-        <div className="flex flex-col items-center justify-center p-5">
+        <div className="flex flex-col justify-center p-10">
             <h1 className="text-3xl mb-10">
                 Programa para diferentes tipos de datos:
             </h1>
