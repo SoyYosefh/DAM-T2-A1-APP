@@ -56,7 +56,7 @@ function MyPromisesAll() {
 
     return (
         <div>
-            <h1 className='text-lg font-bold'>
+            <h1>
                 Promesas 2
             </h1>
         </div>

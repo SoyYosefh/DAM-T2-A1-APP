@@ -32,7 +32,7 @@ function MyFetchBlob() {
 
     return (
         <div className="flex flex-col items-center h-screen w-full p-10">
-            <h1 className="text-5xl mb-10">
+            <h1>
                 Programa para <br /> FETCH API BLOB.
             </h1>
             <div className="flex gap-2">

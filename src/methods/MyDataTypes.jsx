@@ -16,7 +16,7 @@ function MyDataTypes() {
 
     return (
         <div className="flex flex-col justify-center p-10">
-            <h1 className="text-3xl mb-10">
+            <h1 className="mb-10">
                 Programa para diferentes tipos de datos:
             </h1>
             <div>

@@ -14,7 +14,9 @@ import './index.css'
 // import MyDataTypes from './methods/MyDataTypes'
 // import MyObjects from './methods/MyObjects'
 // import Contador from './components/Contador'
-import ContadorHook from './components/ContadorHook'
+// import ContadorHook from './components/ContadorHook'
+// import Login from './components/Login'
+import Usuarios from './components/Usuarios'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -28,12 +30,14 @@ createRoot(document.getElementById('root')).render(
     {/* <MyFetchPut /> */}
     {/* <MyFetchPost /> */}
     {/* <MyFetchBlob /> */}
-    
+
     {/* -------------------- */}
     {/* <MyDataTypes /> */}
     {/* <hr /> */}
     {/* <MyObjects /> */}
     {/* <Contador /> */}
-    <ContadorHook />
+    {/* <ContadorHook /> */}
+    {/* <Login /> */}
+    <Usuarios />
   </StrictMode>
 )

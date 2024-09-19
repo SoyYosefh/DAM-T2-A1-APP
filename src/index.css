@@ -17,3 +17,30 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+table, th, td {
+  border: 1px solid #333;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 2.25rem;
+  font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+

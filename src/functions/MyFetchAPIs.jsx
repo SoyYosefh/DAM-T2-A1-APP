@@ -41,7 +41,7 @@ function MyFetchAPIs() {
 
     return (
         <div className="flex flex-col items-center justify-center h-screen w-full p-10">
-            <h1 className="text-7xl">
+            <h1>
                 Programa para FETCH APIs.
             </h1>
         </div>

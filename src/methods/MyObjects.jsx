@@ -13,7 +13,7 @@ function MyObjects() {
     console.log("JSON Person:", JSON.stringify(persona, null, 2))
     return (
         <div className="flex flex-col justify-center p-10">
-            <h3 className="text-xl font-bold mb-10">Objetos Literales</h3>
+            <h3 className="mb-10">Objetos Literales</h3>
             <code>
                 <pre>
                     {JSON.stringify(persona, null, 2)}

@@ -11,8 +11,8 @@ function ContadorHook() {
 
     return (
         <div className="flex flex-col gap-5 p-5">
-            <h1 className="text-3xl font-bold">Aprender useState</h1>
-            <h2 className="text-xl font-bold">ContadorHook: {valor} </h2>
+            <h1>Aprender useState</h1>
+            <h2>ContadorHook: {valor} </h2>
             <div className="flex gap-2 font-bold">
                 <button
                     className="bg-blue-600 rounded-lg px-4 py-2 hover:bg-blue-900 transition-all duration-300"
