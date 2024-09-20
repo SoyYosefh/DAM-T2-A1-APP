@@ -16,7 +16,7 @@ import './index.css'
 // import Contador from './components/Contador'
 // import ContadorHook from './components/ContadorHook'
 // import Login from './components/Login'
-import Usuarios from './components/Usuarios'
+// import Usuarios from './components/Usuarios'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -38,6 +38,6 @@ createRoot(document.getElementById('root')).render(
     {/* <Contador /> */}
     {/* <ContadorHook /> */}
     {/* <Login /> */}
-    <Usuarios />
+    {/* <Usuarios /> */}
   </StrictMode>
 )
